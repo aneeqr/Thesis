@@ -7,3 +7,4 @@ https://discourse.edwardlib.org/t/edward-on-spark/81
 Edward
 http://edwardlib.org/
 http://edwardlib.org/tutorials/
+http://edwardlib.org/api/ed/models
