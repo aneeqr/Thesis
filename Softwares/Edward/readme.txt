@@ -10,3 +10,8 @@ http://edwardlib.org/tutorials/
 http://edwardlib.org/api/ed/models
 tensor flow
 https://www.tensorflow.org/install/install_windows
+
+Installation
+
+Replace Random variables.py wioth the following to ensure com[atability:
+https://github.com/blei-lab/edward/blob/master/edward/util/random_variables.py#L15
