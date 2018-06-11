@@ -8,3 +8,5 @@ Edward
 http://edwardlib.org/
 http://edwardlib.org/tutorials/
 http://edwardlib.org/api/ed/models
+tensor flow
+https://www.tensorflow.org/install/install_windows
