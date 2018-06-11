@@ -15,3 +15,4 @@ Installation
 
 Replace Random variables.py wioth the following to ensure com[atability:
 https://github.com/blei-lab/edward/blob/master/edward/util/random_variables.py#L15
+C:\Users\Mr.Rehman\Anaconda3\envs\tensorflow\Lib\site-packages\edward\util
